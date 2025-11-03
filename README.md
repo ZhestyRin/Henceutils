@@ -1,4 +1,4 @@
-ListFIle - list files and or directories 
+<h2>ListFile - list files and or directories</h2>
 
 List existing files and information about the files (in current directory by default), sort entries alphabetically
 
